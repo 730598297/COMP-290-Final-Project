@@ -160,3 +160,4 @@ type TSConfig<Config = { strict: true }> = Config;
 ### Codecademy
 https://www.codecademy.com/learn/react-101
 
+https://docs.google.com/document/d/1CrXTo3WmQZqXFxjY9GV9cRhRIRgGVIpdRH8-zZYdRs4/edit?usp=sharing
