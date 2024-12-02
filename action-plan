@@ -1,67 +1,86 @@
 # Action Plan
-
-
+ 
 ## Month 1
-### Goal: 
--
--
--
-
-### Tasks: 
-
-### Extra Resources: 
-
-
+### Goal:
+- Learn the basics of HTML. This will allow me to structure a webpage.
+- Learn the basics of CSS. This will allow me to design my webpage as I envision.
+- Get an IDE that will allow me to program in CSS and HTML. I will also get more familiar with GitHub.
+ 
+### Tasks:
+- Complete an HTML and CSS tutorial to build a simple, responsive web page.
+- Learn how to use Flexbox for CSS.
+- Create wireframes for the home screen and the three main tabs (Teacher, Parent, Student).
+ 
+### Extra Resources:
+- https://youtu.be/HGTJBPNC-Gw?si=nDSIzhFz_7eTHzNS
+ 
 ## Month 2
-### Goal: 
--
--
--
-
-### Tasks: 
-
-### Extra Resources: 
-
-
+### Goal:
+- Learn the fundamentals of JavaScript to add interactivity to the web app. I am going to watch videos and do hands-on tutorials for this. 
+- Build a functional prototype of the homepage with working navigation. This will change as the project continues, but I am after a real representation of my idea. 
+- Start thinking about possible math games for students to play. I'm going to think about at least 5.
+ 
+### Tasks:
+- Complete a beginner-friendly JavaScript tutorial.
+- Implement basic navigation for the three main tabs using JavaScript.
+- Create a mockup for a simple interactive math game or activity for students.
+ 
+### Extra Resources:
+- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+ 
 ## Month 3
-### Goal: 
--
--
--
-
-### Tasks: 
-
-### Extra Resources: 
-
-
-## Month 4
-### Goal: 
--
--
--
-
-### Tasks: 
-
-### Extra Resources: 
-
-
+### Goal:
+- Learn the basics of TypeScript to improve code quality and scalability. I am going to watch videos and do hands-on tutorials for this. 
+- Begin integrating React for component-based development. This will allow for better structure and quicker building of this project.
+- Refine what each tab (teacher, student, and parent) will have. For each tab, start adding information onto the webpage, even if it's small and basic (making sure we are able to take what we are learning and turn it into something real). 
+ 
+### Tasks:
+- Complete a TypeScript introduction course and understand how to apply it in a React project.
+- Create React components. (header, footer, and navigation tabs.)
+- Start adding information to the three tabs (parent, student, and teacher).
+ 
+### Extra Resources:
+- https://typehero.dev/tracks/typescript-foundations 
+- https://react.dev/learn/tutorial-tic-tac-toe
+ 
+## Month 4 
+### Goal:
+- Focus on adding functionality for teachers, including progress tracking and customization. There will be more features, but this is so we can build up to more complex tasks.
+- Design a basic database schema to store user data (e.g., student progress). This is the most exciting and important part and vital to the function of the webpage.
+- Learn how to connect a frontend React app to a backend API. This will be done through watching multiple different videos, and I will try to ask questions to people who I know will be able to help me with this.
+ 
+### Tasks:
+- Research database options (SQL database) and set up a database.
+- Connect the React frontend to the database via a backend API.
+ 
+### Extra Resources:
+- https://firebase.google.com/docs/database
+- https://www.digitalocean.com/community/tutorials/react-axios-react
+ 
 ## Month 5
-### Goal: 
--
--
--
-
-### Tasks: 
-
-### Extra Resources: 
-
-
+### Goal:
+- Expand the math content library with engaging games and activities for students. Our entire goal is to help students with math, so I want to make sure there are good games where they can actually learn and enjoy.
+- Optimize the web app for accessibility and usability. In other words, we want to make sure the webpage can run well on different types of devices with different screen sizes.
+- Conduct initial testing with potential users for feedback. This will be done by making a PSA through social media and waiting for feedback (ideally teachers and parents would be giving feedback).
+ 
+### Tasks:
+- Develop at least two additional interactive math games for students. 
+- Review and improve the app's accessibility. 
+- Share the prototype with teachers or parents for feedback and refine it based on their input.
+ 
+### Extra Resources:
+- https://developer.mozilla.org/en-US/docs/Learn/Accessibility
+ 
 ## Month 6
-### Goal: 
--
--
--
-
-### Tasks: 
-
-### Extra Resources: 
+### Goal:
+- Address bugs and polish the UI. With the focus of making sure the webpage is easy to use and understand.
+- Create a detailed user guide for teachers, parents, and students. So everyone knows what the site is, what its intention is, and how to use it.
+- Continue to add things to the teachers tab, students tab, and the parent tab. I want to focus on making sure the three tabs complement each other well and that everything that each tab may need is there.
+ 
+### Tasks:
+- Fix bugs and ensure the app runs smoothly across various devices and browsers.
+- Write a simple, visually appealing user guide with screenshots and instructions.
+- Outline a roadmap for additional features and updates, such as a mobile app.
+ 
+### Extra Resources:
+- https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction
